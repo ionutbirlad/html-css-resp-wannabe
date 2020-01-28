@@ -74,11 +74,13 @@ img{
   }
   #lezioni .row > .left, #lezioni .row > .right{
     width: 100%;
+    /* si può omettere */
     float: none;
   }
   #steps .row > .left,
   #steps .row > .central,
   #steps .row > .right{
+    /* si può omettere */
     float: none;
     width: 100%;
   }
